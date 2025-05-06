@@ -1,0 +1,8 @@
+flask
+openai
+sentence-transformers
+faiss-cpu
+chroma
+python-dotenv
+numpy
+flask>=3.0
